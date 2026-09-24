@@ -32,7 +32,7 @@
     "webpack": "^4.0.0"
   },
   "devDependencies": {
-    "@angular/compiler": "9.0.4",
+    "@angular/compiler": "20.3.27",
     "@angular/compiler-cli": "9.0.4",
     "typescript": "3.8.2",
     "webpack": "4.42.0"
